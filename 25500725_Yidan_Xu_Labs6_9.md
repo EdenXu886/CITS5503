@@ -3,6 +3,8 @@
 **Student ID:** 25500725
 **Student Name:** Yidan Xu
 
+> **Screenshot reminder:** Replace every _Insert your terminal screenshot for this step here._ line with the actual capture from your CLI session before submitting.
+
 
 # Lab 6
 
