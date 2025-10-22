@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#f3f4f6" rx="24" ry="24" />
+  <rect x="32" y="48" width="576" height="264" fill="#ffffff" stroke="#2563eb" stroke-width="4" rx="16" ry="16" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="32" fill="#1f2937">Lab 6 Result 05</text>
+  <text x="50%" y="310" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="20" fill="#4b5563">Captured from terminal step placeholder</text>
+</svg>
